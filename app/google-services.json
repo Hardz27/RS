@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "965761310466",
+    "firebase_url": "https://maxcure-rs.firebaseio.com",
+    "project_id": "maxcure-rs",
+    "storage_bucket": "maxcure-rs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965761310466:android:c6cf5c9d3141e745",
+        "android_client_info": {
+          "package_name": "com.maxcure"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965761310466-1cu1iub45dr9sdcv8jplqhak6rm0b56h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.maxcure",
+            "certificate_hash": "601d017d33534b8b7e31553ec73b5edf5e8dba77"
+          }
+        },
+        {
+          "client_id": "965761310466-ij9vkfnarfl3ltvcl4qbongv1fdtlofd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNk8eTmZgNUV9bzIZk5Pv4qIhQVEE6iu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965761310466-ij9vkfnarfl3ltvcl4qbongv1fdtlofd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
